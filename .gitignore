@@ -9,3 +9,4 @@ debian/files
 debian/footswitch/
 debian/footswitch.substvars
 debian/*debhelper*
+venv/
